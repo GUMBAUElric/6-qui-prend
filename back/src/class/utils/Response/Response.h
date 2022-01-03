@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <chrono>
 #include <thread>
+#include <cstring>
 #include "Json.h"
 
 class Response : public Json
