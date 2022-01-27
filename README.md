@@ -14,6 +14,7 @@
 - [What's included](#whats-included)
 - [How its work](#how-its-work)
 - [How to install](#how-to-install)
+- [Why we choose electronjs](#why-we-choose-electronjs)
 - [Docs](#docs)
 
 ## About us
@@ -167,6 +168,11 @@ Well done !
 Follow the instructions.
 
 Enjoy ! 😉
+
+## Why we choose electronjs
+
+We chose electronjs because we have more ease with the javascript language compared to C# and WPF does not exist on a linux OS.
+We could not set up a docker image because there is a lot of incompatibility with electronjs.
 
 ## Docs
 
